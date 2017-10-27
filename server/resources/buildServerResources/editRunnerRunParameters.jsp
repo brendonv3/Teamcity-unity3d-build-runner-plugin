@@ -100,11 +100,11 @@
 
 <props:selectSectionProperty name="argument.build_player" title="Build player:">
 	<props:selectSectionPropertyContent value="" caption="<Don't build player>"/>
-    <props:selectSectionPropertyContent value="buildStandaloneWindows" caption="Build a Windows standalone"/>
-    <props:selectSectionPropertyContent value="buildiOS" caption="Build an iOS player"/>
-    <props:selectSectionPropertyContent value="buildAndroid" caption="Build an Android apk standalone app"/>
-    <props:selectSectionPropertyContent value="buildStandaloneWindows64" caption="Build a Windows 64-bit standalone"/>
-    <props:selectSectionPropertyContent value="buildWSAPlayer" caption="Build an Windows Store Apps player"/>
+    <props:selectSectionPropertyContent value="StandaloneWindows" caption="Build a Windows standalone"/>
+    <props:selectSectionPropertyContent value="iOS" caption="Build an iOS player"/>
+    <props:selectSectionPropertyContent value="Android" caption="Build an Android apk standalone app"/>
+    <props:selectSectionPropertyContent value="StandaloneWindows64" caption="Build a Windows 64-bit standalone"/>
+    <props:selectSectionPropertyContent value="WSAPlayer" caption="Build an Windows Store Apps player"/>
 </props:selectSectionProperty>
 
 <tr>
